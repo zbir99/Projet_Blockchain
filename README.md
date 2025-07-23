@@ -350,21 +350,6 @@ Certification-de-Diplomes/
 └── README.md              # Documentation
 ```
 
-### Guidelines de Développement
-
-1. **Commits :**
-   - Messages clairs et descriptifs
-   - Un commit par fonctionnalité
-
-2. **Code :**
-   - Commentaires en français
-   - Gestion d'erreurs systématique
-   - Tests unitaires pour les nouvelles fonctionnalités
-
-3. **Pull Requests :**
-   - Description détaillée des changements
-   - Tests de non-régression
-
 ## 🔗 Liens Utiles
 
 - [Documentation Hardhat](https://hardhat.org/docs)
