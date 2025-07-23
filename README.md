@@ -287,28 +287,6 @@ Ce script vérifie :
 - ✅ Gestion d'erreurs robuste
 - ✅ Logs détaillés pour le débogage
 
-## 🚀 Déploiement en Production
-
-### Testnets Recommandés
-
-1. **Sepolia** (recommandé)
-2. **Goerli**
-3. **Mumbai** (Polygon)
-
-### Configuration pour Sepolia
-
-```javascript
-// hardhat.config.js
-module.exports = {
-  networks: {
-    sepolia: {
-      url: `https://sepolia.infura.io/v3/${INFURA_PROJECT_ID}`,
-      accounts: [PRIVATE_KEY]
-    }
-  }
-};
-```
-
 ### Déploiement
 
 ```bash
@@ -387,16 +365,6 @@ Certification-de-Diplomes/
    - Description détaillée des changements
    - Tests de non-régression
 
-## 📄 Licence
-
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
-
-## 👥 Équipe
-
-- **Développeur Principal** : [Votre Nom]
-- **Encadrement** : [Nom du Professeur]
-- **Institution** : [Nom de l'Université]
-
 ## 🔗 Liens Utiles
 
 - [Documentation Hardhat](https://hardhat.org/docs)
@@ -409,7 +377,7 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 **🎯 Vision :** Démocratiser l'accès à la vérification de diplômes grâce à la blockchain et créer un écosystème éducatif plus transparent et sécurisé.
 
-**📧 Contact :** [votre.email@exemple.com]
+**📧 Contact :** [yassine99zbir@gmail.com]
 
 ---
 
